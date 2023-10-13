@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T10:14:15.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="qDVJwZ1RkaNL7Fx8zsFQ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T10:32:02.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="30rjsxpeBZwEae1Ktl3R" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,8 +44,8 @@
         <mxCell id="-7ZSWxGNlsJKucX61rwI-21" value="same model/maker" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="170" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-7ZSWxGNlsJKucX61rwI-22" value="bug #554" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="-7ZSWxGNlsJKucX61rwI-22" value="&lt;div align=&quot;center&quot;&gt;bug #554&lt;br&gt;(still show live-video in live-video)&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;=&amp;gt; need to:&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;+ remove live-stream&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;+ recording for this camera&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="350" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-7ZSWxGNlsJKucX61rwI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-7ZSWxGNlsJKucX61rwI-24" target="-7ZSWxGNlsJKucX61rwI-26">
           <mxGeometry relative="1" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T08:59:56.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="kq-GJsu5CVvdKb6wvMo9" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T14:21:44.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="mZITiZduw1qklGNr7IH1" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DYinjiPDvyhjv58QdQPc-7" value="user/pass(request)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="1130" width="140" height="80" as="geometry" />
+          <mxGeometry x="230" y="1140" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DYinjiPDvyhjv58QdQPc-17" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DYinjiPDvyhjv58QdQPc-15" target="DYinjiPDvyhjv58QdQPc-16">
           <mxGeometry relative="1" as="geometry" />
@@ -151,13 +151,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYinjiPDvyhjv58QdQPc-16" value="can not update camera" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="1410" width="140" height="60" as="geometry" />
+          <mxGeometry x="230" y="1430" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DYinjiPDvyhjv58QdQPc-18" value="THE END" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1540" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DYinjiPDvyhjv58QdQPc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DYinjiPDvyhjv58QdQPc-23" target="DYinjiPDvyhjv58QdQPc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DYinjiPDvyhjv58QdQPc-23" value="authentication success" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="1210" width="150" height="60" as="geometry" />
+          <mxGeometry x="470" y="1220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYinjiPDvyhjv58QdQPc-25" value="get db info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="1220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYinjiPDvyhjv58QdQPc-26" value="update http port" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="1420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYinjiPDvyhjv58QdQPc-27" value="update http port" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="1500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYinjiPDvyhjv58QdQPc-29" value="update ip operation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="1330" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

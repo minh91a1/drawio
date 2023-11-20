@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T06:54:17.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="kTpNE6b6J7ob_kNh9V4b" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T06:55:41.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Fxagj_I8j8HI6CblyIri" version="22.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4947" dy="3283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2899" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1377,7 +1377,7 @@
             <mxPoint x="270" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-677" value="acting_request" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-677" value="acting_request" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="300" height="1410" as="geometry">
             <mxRectangle x="410" y="130" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1980,7 +1980,7 @@
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-783" value="companies" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-783" value="companies" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-160" y="960" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-784" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-783">
@@ -2009,7 +2009,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-790" value="users" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-790" value="users" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="580" y="1010" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-791" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-790">
@@ -2043,7 +2043,7 @@
             <mxPoint x="160" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-798" value="hiring_request" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-798" value="hiring_request" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1135" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-799" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-798">
@@ -2072,7 +2072,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-805" value="positions" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-805" value="positions" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;gradientColor=none;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-110" y="2130" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-806" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-805">
@@ -2125,7 +2125,7 @@
             <mxPoint x="560" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-816" value="acting_request_appraiser" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-816" value="acting_request_appraiser" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="1290" width="370" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-817" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-816">
@@ -2160,7 +2160,7 @@
             <mxPoint x="560" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-824" value="acting_request_period" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-824" value="acting_request_period" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="930" y="560" width="340" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-825" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-824">
@@ -2228,7 +2228,7 @@
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-840" value="acting_request_goal" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-840" value="acting_request_goal" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="930" y="780" width="340" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-841" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-840">
@@ -2296,7 +2296,7 @@
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-856" value="acting_request_appraising" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-856" value="acting_request_appraising" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1380" y="680" width="520" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-857" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-856">
@@ -2357,7 +2357,7 @@
         <mxCell id="BItN_dC2_5t4-hU08_sQ-870" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="1" source="BItN_dC2_5t4-hU08_sQ-841" target="BItN_dC2_5t4-hU08_sQ-860">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-871" value="acting_request_compulsory_training" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-871" value="acting_request_compulsory_training" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="930" y="1000" width="570" height="250" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-872" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-871">
@@ -2491,7 +2491,7 @@
             <mxPoint x="500" y="1285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-898" value="flow_works" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-898" value="flow_works" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1410" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-899" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-898">
@@ -2539,7 +2539,7 @@
             <mxPoint x="130" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-909" value="flow_types" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-909" value="flow_types" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-760" y="1640" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-910" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-909">
@@ -2589,7 +2589,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-920" value="flow_work_status" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-920" value="flow_work_status" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-760" y="1440" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-921" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-920">
@@ -2652,7 +2652,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-934" value="flow_work_process" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-934" value="flow_work_process" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-760" y="1070" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-935" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-934">
@@ -2702,7 +2702,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-945" value="flow_work_process_review" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-945" value="flow_work_process_review" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-760" y="1240" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-946" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-945">
@@ -2739,7 +2739,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-953" value="files" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-953" value="files" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="1420" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-954" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-953">
@@ -2776,7 +2776,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BItN_dC2_5t4-hU08_sQ-961" value="acting_request_flow_process (v1-add)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="BItN_dC2_5t4-hU08_sQ-961" value="acting_request_flow_process (v1-add)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#007FFF;fontColor=#FF0000;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-280" y="480" width="370" height="430" as="geometry" />
         </mxCell>
         <mxCell id="BItN_dC2_5t4-hU08_sQ-962" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="BItN_dC2_5t4-hU08_sQ-961">
